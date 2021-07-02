@@ -1,0 +1,133 @@
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.link-button{
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(180deg, red, orange);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: bisque;
+    font-size: medium;
+}
+
+.nmstyle{
+    font-weight: bold;
+    color: palevioletred;
+}
+
+p{
+    color: grey;
+}
+
+.halfwidth{
+    margin: 35px 35px;
+    float: left;
+    width: 40%;
+    padding: 30px 30px;
+}
+
+.halfwidth img{
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-position: center;
+    margin: auto;
+}
+
+.header2{
+    margin: 0px 80px;
+    padding-top: 80px;
+}
+
+.midheader{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-position: center;
+    margin: auto;
+}
+
+.inter2halfwidth{
+    padding-top: 240px;
+}
+
+.inter3halfwidth{
+    padding-top: 130px;
+}
+
+.img1{
+    height: 500px;
+    width: 30%;
+    float: left;
+    padding: 10px;
+    border: 1px solid gray;
+    height: auto;
+    box-shadow: 5px 10px #aaaaaa;    
+    
+}
+
+img{
+    width:100%;
+    height:auto;
+}
+
+.work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-position: center;
+}
+
+.work2{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 70px;
+}
+
+.work h1{
+    text-align: center;
+    color: grey;
+    padding-top: 80px;
+   
+}
+
+.footer1{
+    text-align: center;
+}
+
+.footer1 h3{
+    color: gray;
+}
+
+.box{
+    border: 1px solid pink;
+    margin: 0px 200px 250px 250px;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: mediumvioletred;
+    text-align: center;
+    color: mintcream;
+}
+footer{
+    text-align: center;
+}
+
+.footer{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+
+.footer1 h1{
+margin-bottom: 60px;
+}
+.footer1 h2{
+    margin-bottom: 50px;
+}
